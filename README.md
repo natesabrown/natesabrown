@@ -104,7 +104,7 @@ He/His
 </table>  
 
 <br />
-<p align="center" style="text-align: center"> ... 𓀠 &nbsp;  𓀒  &nbsp; 𓀡 ... </p>
+<p align="center" style="text-align: center"> •• 𓀠 &nbsp;  𓀒  &nbsp; 𓀡 •• </p>
 </br>
 
-<sub>yes, that is my dog munching on a half-loaf of garlic bread.</sub>
+<p align="right"><sub>yes, that is my dog munching on a half-loaf of garlic bread.</sub></p>
