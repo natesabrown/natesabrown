@@ -49,7 +49,9 @@ He/His
 <table>
     <tr>
         <td vlign="center">
-            <img src="./img/linkedin.svg" height="20" width="20"> 
+            <a href="https://www.linkedin.com/in/natesabrown">
+                <img src="./img/linkedin.svg" height="20" width="20"> 
+            </a>
         </td>
         <td vlign="center">
             somewhat relucantly partaking in the neoliberal state of affairs
@@ -66,26 +68,30 @@ He/His
         </td>  
     </tr>
 </table> 
-<table>
-    <tr>
-        <td vlign="center">
-            <img src="./img/india.png" height="20" width="20"> 
-        </td>
-        <td vlign="center">
-            code for latest app is available
-        </td>  
-    </tr>
-</table> 
-<table>
-    <tr>
-        <td vlign="center">
-            <img src="./img/favi.png" height="20" width="20"> 
-        </td>
-        <td vlign="center">
-            i guess my website's basically a linktr.ee if you're interested in more
-        </td>  
-    </tr>
-</table> 
+<a href="https://github.com/natesabrown/india_states_map_game">
+    <table>
+        <tr>
+            <td vlign="center">
+                <img src="./img/india.png" height="20" width="20"> 
+            </td>
+            <td vlign="center">
+                code for latest app is available
+            </td>  
+        </tr>
+    </table> 
+</a>
+<a href="https://natesabrown.com/">
+    <table>
+        <tr>
+            <td vlign="center">
+                <img src="./img/favi.png" height="20" width="20"> 
+            </td>
+            <td vlign="center">
+                i guess my website's basically a linktr.ee if you're interested in more
+            </td>  
+        </tr>
+    </table> 
+</a>
 <table>
     <tr>
         <td vlign="center">
@@ -96,3 +102,9 @@ He/His
         </td>  
     </tr>
 </table>  
+
+<br />
+<p align="center" style="text-align: center"> ... 𓀠 &nbsp;  𓀒  &nbsp; 𓀡 ... </p>
+</br>
+
+<sub>yes, that is my dog munching on a half-loaf of garlic bread.</sub>
