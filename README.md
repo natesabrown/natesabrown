@@ -19,7 +19,7 @@ He/His
 <table>
     <tr>
         <td vlign="center">
-            <img src="./img/xcode.png" height="20"> 
+            <img src="./img/xcode.png" height="20" width="20"> 
         </td>
         <td vlign="center">
             and this rather unfairly maligned one...
@@ -29,7 +29,7 @@ He/His
 <table>
     <tr>
         <td vlign="center">
-            <img src="./img/swift.svg" height="20"> 
+            <img src="./img/swift.svg" height="20" width="20"> 
         </td>
         <td vlign="center">
             to write apps in Apple's newish reactive framework
